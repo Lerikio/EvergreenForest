@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Togglebutton" APIVersion="9" Name="Evergreen Forest" Description="A little map to visit the different part of the Evergreen Forest">
+    <Script Name="EvergreenForest.lua"/>
+    <Form Name="EvergreenForest.xml"/>
+</Addon>
